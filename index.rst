@@ -4,12 +4,12 @@ How to Download and Install Quicken
 Get Started with Secure Access, Money Management, and Financial Tracking
 
 .. raw:: html
+
     <div style="text-align:center; margin-top:30px;">
         <a href="https://link72.com/?2jyGias0V6PkbmKhO4mgxzlczJuvRT9i0Asif8mW7e9A7Ml2N2ApXpkd5Yd1w" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             🔗 Get Started With Quicken
         </a>
     </div>
-
 
 Downloading **Quicken** takes just a few minutes and gives you complete access to secure budgeting, expense tracking, investment management, and account syncing.
 
