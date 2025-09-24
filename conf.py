@@ -35,8 +35,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # html_theme = 'sphinx_rtd_theme'
 
 # SEO-friendly page info
-html_title = "How to Activate Your Lowe’s SYF Credit Card Online"
-html_short_title = "Lowe’s SYF Card Activation"
+html_title = "How to Download and Install Quicken in 5 Minutes"
+html_short_title = "Quicken Download Guide"
 html_favicon = 'favicon.ico'  # place favicon.ico in _static or root
 
 # Hide "View page source"
