@@ -11,8 +11,6 @@ Get Started with Secure Access, Money Management, and Financial Tracking
     </div>
 
 
-
-
 Downloading **Quicken** takes just a few minutes and gives you complete access to secure budgeting, expense tracking, investment management, and account syncing.
 
 Why Download Quicken?
